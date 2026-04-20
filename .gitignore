@@ -1,0 +1,8 @@
+# 忽略数据库文件
+*.db
+*.sqlite
+
+# 可选：忽略缓存和临时文件
+__pycache__/
+node_modules/
+.env
