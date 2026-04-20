@@ -1,0 +1,23 @@
+[2026-04-18 07:58:49] 启动器开始, packaged_target=C:\Users\93281\Desktop\QQ三国\web\dist\QQ三国资产管理\QQ三国资产管理.exe, main.py=C:\Users\93281\Desktop\QQ三国\web\main.py
+[2026-04-18 07:59:04] 启动器开始, packaged_target=C:\Users\93281\Desktop\QQ三国\web\dist\QQ三国资产管理\QQ三国资产管理.exe, main.py=C:\Users\93281\Desktop\QQ三国\web\main.py
+[2026-04-18 07:59:07] 启动器开始, packaged_target=C:\Users\93281\Desktop\QQ三国\web\dist\QQ三国资产管理\QQ三国资产管理.exe, main.py=C:\Users\93281\Desktop\QQ三国\web\main.py
+[2026-04-18 07:59:19] 启动目录版: C:\Users\93281\Desktop\QQ三国\web\dist\QQ三国资产管理\QQ三国资产管理.exe
+[2026-04-18 07:59:23] 目录版启动成功, PID=27044
+[2026-04-18 07:59:34] 启动目录版: C:\Users\93281\Desktop\QQ三国\web\dist\QQ三国资产管理\QQ三国资产管理.exe
+[2026-04-18 07:59:38] 启动目录版: C:\Users\93281\Desktop\QQ三国\web\dist\QQ三国资产管理\QQ三国资产管理.exe
+[2026-04-18 07:59:38] 目录版启动成功, PID=19752
+[2026-04-18 07:59:42] 目录版启动成功, PID=21592
+[2026-04-18 08:00:35] 启动器开始, packaged_target=C:\Users\93281\Desktop\QQ三国\web\dist\QQ三国资产管理\QQ三国资产管理.exe, main.py=C:\Users\93281\Desktop\QQ三国\web\main.py
+[2026-04-18 08:00:35] 检测到已有服务运行: http://127.0.0.1:8000
+[2026-04-18 08:16:21] 启动器开始, packaged_target=C:\Users\93281\Desktop\QQ三国\web\dist\QQ三国资产管理\QQ三国资产管理.exe, main.py=C:\Users\93281\Desktop\QQ三国\web\main.py
+[2026-04-18 08:16:21] 检测到已有服务运行: http://127.0.0.1:8000
+[2026-04-18 18:34:58] 启动器开始, packaged_target=C:\Users\93281\Desktop\QQ三国\web\dist\QQ三国资产管理\QQ三国资产管理.exe, main.py=C:\Users\93281\Desktop\QQ三国\web\main.py
+[2026-04-18 18:35:28] 启动目录版: C:\Users\93281\Desktop\QQ三国\web\dist\QQ三国资产管理\QQ三国资产管理.exe
+[2026-04-18 18:35:32] 目录版启动成功, PID=34984
+[2026-04-18 18:41:20] 启动器开始, packaged_target=C:\Users\93281\Desktop\QQ三国\web\dist\QQ三国资产管理\QQ三国资产管理.exe, main.py=C:\Users\93281\Desktop\QQ三国\web\main.py
+[2026-04-18 18:41:50] 启动目录版: C:\Users\93281\Desktop\QQ三国\web\dist\QQ三国资产管理\QQ三国资产管理.exe
+[2026-04-18 18:41:54] 目录版启动成功, PID=26776
+[2026-04-18 18:45:01] 启动器开始, packaged_target=C:\Users\93281\Desktop\QQ三国\web\dist\QQ三国资产管理\QQ三国资产管理.exe, main.py=C:\Users\93281\Desktop\QQ三国\web\main.py, db_dir=C:\Users\93281\Desktop\QQ三国\web, source_available=True, allow_packaged_fallback=False
+[2026-04-18 18:45:32] Python: C:\Users\93281\AppData\Local\Python\pythoncore-3.14-64\python.exe -> Python 3.14.3
+[2026-04-18 18:45:32] 启动源码版: C:\Users\93281\AppData\Local\Python\pythoncore-3.14-64\python.exe C:\Users\93281\Desktop\QQ三国\web\main.py
+[2026-04-18 18:45:36] 源码版启动成功, PID=40128
